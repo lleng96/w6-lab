@@ -1,0 +1,20 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "main": "app6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
